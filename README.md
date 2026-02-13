@@ -13,12 +13,18 @@ if–elif–else ladder – checks multiple conditions in sequence.
 ALGORITHM
 
 Algorithm 1(a) & 1(b): Check Whether a Number is Positive, Negative or Zero
-Start
-Read an integer number num
-If num > 0, display Positive
-Else if num < 0, display Negative
-Else display Zero
-Stop
+
+1. Start
+
+2. Read an integer number num
+
+3. If num > 0, display Positive
+
+4. Else if num < 0, display Negative
+
+5. Else display Zero
+
+6. Stop
 
 Algorithm 2: Check Whether a Number is Even or Odd
 Start
