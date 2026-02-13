@@ -4,7 +4,7 @@ using if, elif, and else
 for solving different decision-making problems such as checking positive/negative numbers, even or odd, largest number, grade calculation, leap year, salary calculation, income tax, vowel or consonant, and date validation.
 
 THEORY
-Conditional statements in Python are used to execute different blocks of code based on conditions.
+Conditional statements in Python are used to execute different blocks of code based on conditions.  
 Python provides the following conditional constructs:
 if statement – executes a block when the condition is true.
 if–else statement – provides an alternative block if the condition is false.
